@@ -21,6 +21,11 @@ def check_time(d):
         print("No date in response!!!")
         raise KeyError
 
+    try:
+        print("Привіт! " + home_work(d['time']))
+    except Exception as e:
+        print(e)
+
 
 def main(url=''):
     if not url:
@@ -39,9 +44,13 @@ def main(url=''):
     return True
 
 
-def home_work():
-    # Ваш захист
-    pass
+def home_work(time):
+    # Мій захист
+    if "PM" in time:
+        tanswer = "Доброго дня!"
+    elif "AM" in time:
+        tanswer = "Доброї ночі!"
+    return tanswer
 
 
 def my_good_fun():
