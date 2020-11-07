@@ -1,2 +1,2 @@
 # Lab
-Katheryna_Symchuk_IK-31
+Kateryna_Symchuk_IK-31
