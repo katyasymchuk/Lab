@@ -4,8 +4,8 @@ all: install test run deploy
 
 install:
 	@echo "Installing pipenv and dependencies."
-	pip install pipenv
-	pipenv --python 3.7
+	pip3 install pipenv
+	pipenv --python 3.8
 	pipenv install requests
 	pipenv install ntplib
 	pipenv install pytest
@@ -21,5 +21,5 @@ run:
 deploy:
 	@echo "Adding and Committing results.txt to git."
 	git add results.txt
-	git commit -m "Lab_2: Автоматичний коміт з makefile"
+	git commit -m "Lab_2: commit from makefile"
 	git push
