@@ -13,3 +13,6 @@ Lab_3: Вступ до моніторингу.
     └── manage.py
     ```
 3.Оскільки все встановлено правильно, то запускаю Django сервер, виконавши команду `pipenv run python manage.py runserver`. Переходжу за посиланням `localhost:8000`:
+![image](https://github.com/katyasymchuk/Lab/tree/main/lab3/images/1.png)
+
+4.Зупиняю сервер виконавши переривання `Ctrl+C`. Добавляю файл бази даних в gitignore. Роблю коміт базового темплейту сайту. 
