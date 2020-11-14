@@ -1,0 +1,208 @@
+INFO 2020-11-14 18:07:56,042 root : Сервер доступний. Час на сервері: 2020-11-14T16:07:56.041
+INFO 2020-11-14 18:07:56,042 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:07:56,042 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:07:56,042 root : Ключ: date, Значення: 2020-11-14T16:07:56.041
+INFO 2020-11-14 18:07:56,042 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:07:56,042 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:07:56,042 root : Ключ: datetime, Значення: 2020-11-14T16:07:56.041106
+INFO 2020-11-14 18:07:56,042 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:07:56,042 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:08:02,633 root : Сервер доступний. Час на сервері: 2020-11-14T16:08:02.632
+INFO 2020-11-14 18:08:02,633 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:08:02,633 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:08:02,634 root : Ключ: date, Значення: 2020-11-14T16:08:02.632
+INFO 2020-11-14 18:08:02,634 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:08:02,634 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:08:02,634 root : Ключ: datetime, Значення: 2020-11-14T16:08:02.632384
+INFO 2020-11-14 18:08:02,634 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:08:02,634 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:08:29,614 root : Сервер доступний. Час на сервері: 2020-11-14T16:08:29.613
+INFO 2020-11-14 18:08:29,614 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:08:29,614 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:08:29,614 root : Ключ: date, Значення: 2020-11-14T16:08:29.613
+INFO 2020-11-14 18:08:29,614 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:08:29,614 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:08:29,614 root : Ключ: datetime, Значення: 2020-11-14T16:08:29.613139
+INFO 2020-11-14 18:08:29,614 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:08:29,614 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:08:41,758 root : Сервер доступний. Час на сервері: 2020-11-14T16:08:41.757
+INFO 2020-11-14 18:08:41,758 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:08:41,758 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:08:41,758 root : Ключ: date, Значення: 2020-11-14T16:08:41.757
+INFO 2020-11-14 18:08:41,758 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:08:41,758 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:08:41,758 root : Ключ: datetime, Значення: 2020-11-14T16:08:41.757090
+INFO 2020-11-14 18:08:41,758 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:08:41,758 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:09:29,698 root : Сервер доступний. Час на сервері: 2020-11-14T16:09:29.695
+INFO 2020-11-14 18:09:29,698 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:09:29,699 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:09:29,699 root : Ключ: date, Значення: 2020-11-14T16:09:29.695
+INFO 2020-11-14 18:09:29,699 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:09:29,699 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:09:29,699 root : Ключ: datetime, Значення: 2020-11-14T16:09:29.695416
+INFO 2020-11-14 18:09:29,699 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:09:29,699 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:09:41,838 root : Сервер доступний. Час на сервері: 2020-11-14T16:09:41.836
+INFO 2020-11-14 18:09:41,839 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:09:41,839 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:09:41,839 root : Ключ: date, Значення: 2020-11-14T16:09:41.836
+INFO 2020-11-14 18:09:41,839 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:09:41,839 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:09:41,839 root : Ключ: datetime, Значення: 2020-11-14T16:09:41.836643
+INFO 2020-11-14 18:09:41,839 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:09:41,839 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:10:29,763 root : Сервер доступний. Час на сервері: 2020-11-14T16:10:29.762
+INFO 2020-11-14 18:10:29,763 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:10:29,763 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:10:29,763 root : Ключ: date, Значення: 2020-11-14T16:10:29.762
+INFO 2020-11-14 18:10:29,763 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:10:29,763 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:10:29,763 root : Ключ: datetime, Значення: 2020-11-14T16:10:29.762485
+INFO 2020-11-14 18:10:29,763 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:10:29,763 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:10:41,900 root : Сервер доступний. Час на сервері: 2020-11-14T16:10:41.899
+INFO 2020-11-14 18:10:41,900 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:10:41,900 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:10:41,900 root : Ключ: date, Значення: 2020-11-14T16:10:41.899
+INFO 2020-11-14 18:10:41,900 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:10:41,900 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:10:41,900 root : Ключ: datetime, Значення: 2020-11-14T16:10:41.899366
+INFO 2020-11-14 18:10:41,900 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:10:41,900 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:11:29,831 root : Сервер доступний. Час на сервері: 2020-11-14T16:11:29.829
+INFO 2020-11-14 18:11:29,832 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:11:29,832 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:11:29,832 root : Ключ: date, Значення: 2020-11-14T16:11:29.829
+INFO 2020-11-14 18:11:29,832 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:11:29,832 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:11:29,832 root : Ключ: datetime, Значення: 2020-11-14T16:11:29.829840
+INFO 2020-11-14 18:11:29,832 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:11:29,832 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:11:41,982 root : Сервер доступний. Час на сервері: 2020-11-14T16:11:41.980
+INFO 2020-11-14 18:11:41,983 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:11:41,983 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:11:41,984 root : Ключ: date, Значення: 2020-11-14T16:11:41.980
+INFO 2020-11-14 18:11:41,984 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:11:41,984 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:11:41,984 root : Ключ: datetime, Значення: 2020-11-14T16:11:41.980720
+INFO 2020-11-14 18:11:41,984 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:11:41,984 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:12:29,898 root : Сервер доступний. Час на сервері: 2020-11-14T16:12:29.897
+INFO 2020-11-14 18:12:29,898 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:12:29,898 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:12:29,899 root : Ключ: date, Значення: 2020-11-14T16:12:29.897
+INFO 2020-11-14 18:12:29,899 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:12:29,899 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:12:29,899 root : Ключ: datetime, Значення: 2020-11-14T16:12:29.897416
+INFO 2020-11-14 18:12:29,899 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:12:29,899 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:12:42,068 root : Сервер доступний. Час на сервері: 2020-11-14T16:12:42.066
+INFO 2020-11-14 18:12:42,069 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:12:42,069 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:12:42,069 root : Ключ: date, Значення: 2020-11-14T16:12:42.066
+INFO 2020-11-14 18:12:42,069 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:12:42,069 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:12:42,069 root : Ключ: datetime, Значення: 2020-11-14T16:12:42.066578
+INFO 2020-11-14 18:12:42,069 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:12:42,069 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:13:29,974 root : Сервер доступний. Час на сервері: 2020-11-14T16:13:29.971
+INFO 2020-11-14 18:13:29,974 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:13:29,975 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:13:29,975 root : Ключ: date, Значення: 2020-11-14T16:13:29.971
+INFO 2020-11-14 18:13:29,975 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:13:29,975 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:13:29,975 root : Ключ: datetime, Значення: 2020-11-14T16:13:29.971966
+INFO 2020-11-14 18:13:29,975 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:13:29,975 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:13:42,152 root : Сервер доступний. Час на сервері: 2020-11-14T16:13:42.149
+INFO 2020-11-14 18:13:42,152 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:13:42,153 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:13:42,153 root : Ключ: date, Значення: 2020-11-14T16:13:42.149
+INFO 2020-11-14 18:13:42,153 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:13:42,153 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:13:42,153 root : Ключ: datetime, Значення: 2020-11-14T16:13:42.149310
+INFO 2020-11-14 18:13:42,153 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:13:42,153 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:14:30,050 root : Сервер доступний. Час на сервері: 2020-11-14T16:14:30.047
+INFO 2020-11-14 18:14:30,050 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:14:30,050 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:14:30,051 root : Ключ: date, Значення: 2020-11-14T16:14:30.047
+INFO 2020-11-14 18:14:30,051 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:14:30,051 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:14:30,051 root : Ключ: datetime, Значення: 2020-11-14T16:14:30.047426
+INFO 2020-11-14 18:14:30,051 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:14:30,051 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:14:42,234 root : Сервер доступний. Час на сервері: 2020-11-14T16:14:42.232
+INFO 2020-11-14 18:14:42,235 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:14:42,235 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:14:42,235 root : Ключ: date, Значення: 2020-11-14T16:14:42.232
+INFO 2020-11-14 18:14:42,235 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:14:42,235 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:14:42,235 root : Ключ: datetime, Значення: 2020-11-14T16:14:42.232667
+INFO 2020-11-14 18:14:42,236 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:14:42,236 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:15:30,110 root : Сервер доступний. Час на сервері: 2020-11-14T16:15:30.109
+INFO 2020-11-14 18:15:30,111 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:15:30,111 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:15:30,111 root : Ключ: date, Значення: 2020-11-14T16:15:30.109
+INFO 2020-11-14 18:15:30,111 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:15:30,111 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:15:30,111 root : Ключ: datetime, Значення: 2020-11-14T16:15:30.109385
+INFO 2020-11-14 18:15:30,111 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:15:30,111 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:15:42,312 root : Сервер доступний. Час на сервері: 2020-11-14T16:15:42.304
+INFO 2020-11-14 18:15:42,313 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:15:42,313 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:15:42,313 root : Ключ: date, Значення: 2020-11-14T16:15:42.304
+INFO 2020-11-14 18:15:42,313 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:15:42,313 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:15:42,313 root : Ключ: datetime, Значення: 2020-11-14T16:15:42.304620
+INFO 2020-11-14 18:15:42,313 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:15:42,313 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:16:30,175 root : Сервер доступний. Час на сервері: 2020-11-14T16:16:30.173
+INFO 2020-11-14 18:16:30,175 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:16:30,175 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:16:30,175 root : Ключ: date, Значення: 2020-11-14T16:16:30.173
+INFO 2020-11-14 18:16:30,175 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:16:30,175 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:16:30,175 root : Ключ: datetime, Значення: 2020-11-14T16:16:30.173999
+INFO 2020-11-14 18:16:30,175 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:16:30,175 root : Ключ: client_info, Значення: python-requests/2.21.0
+ERROR 2020-11-14 18:16:42,376 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda36947f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:17:30,230 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa0044ab1f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:17:42,438 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e57250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:18:30,287 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c6f520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:18:42,506 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e57d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:19:30,352 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c6fca0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:19:42,571 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e60520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:20:30,407 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c744c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:20:42,635 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e60cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:21:30,468 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c74cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:21:42,695 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e6d460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:22:30,528 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c84430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:22:42,755 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3e60580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:23:30,591 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c74520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:23:42,816 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcda3694220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2020-11-14 18:24:30,672 root : Сервер доступний. Час на сервері: 2020-11-14T16:24:30.670
+INFO 2020-11-14 18:24:30,672 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:24:30,672 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:24:30,672 root : Ключ: date, Значення: 2020-11-14T16:24:30.670
+INFO 2020-11-14 18:24:30,672 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:24:30,672 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:24:30,673 root : Ключ: datetime, Значення: 2020-11-14T16:24:30.670809
+INFO 2020-11-14 18:24:30,673 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:24:30,673 root : Ключ: client_info, Значення: python-requests/2.21.0
+INFO 2020-11-14 18:24:42,885 root : Сервер доступний. Час на сервері: 2020-11-14T16:24:42.883
+INFO 2020-11-14 18:24:42,885 root : Запитувана сторінка: : /health/
+INFO 2020-11-14 18:24:42,887 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-14 18:24:42,888 root : Ключ: date, Значення: 2020-11-14T16:24:42.883
+INFO 2020-11-14 18:24:42,888 root : Ключ: current_page, Значення: /health/
+INFO 2020-11-14 18:24:42,888 root : Ключ: server_info, Значення: {'system': 'posix', 'user': 'katya'}
+INFO 2020-11-14 18:24:42,888 root : Ключ: datetime, Значення: 2020-11-14T16:24:42.884012
+INFO 2020-11-14 18:24:42,888 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2020-11-14 18:24:42,888 root : Ключ: client_info, Значення: python-requests/2.21.0
+ERROR 2020-11-14 18:25:30,735 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa0044ab7c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:26:30,795 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c842b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:27:05,831 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcec15a93a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2020-11-14 18:27:30,857 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa004c84c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
