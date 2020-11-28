@@ -47,3 +47,15 @@
     - Переходжу на адресу `http://127.0.0.1:8000`, щоб переконатися що дві сторінки веб-сайту працюють:
     ![image](images/1.png)
     ![image](images/2.png)
+8. Cтворюю ще один контейнер із програмою моніторингу веб-сайту:
+    - створіть ще один `Dockerfile`, у якому поміщаю програму моніторингу (використовую ключ `--file`);
+    - виконую білд імеджа та даю йому тег `monitoring`:
+    ```
+    docker build -t katyasymchuk/lab4_django:monitoring -f Dockerfile.monit .
+    docker push katyasymchuk/lab4_django:monitoring
+    ```
+    - запускаю два контейнери одночасно (у різних терміналах) та бачу, що програма моніторингу успішно доступається до сторінок веб-сайту (для цього я використала ключ `--net=host`):
+    ```
+    docker run -it --name=monitor --rm --net=host -v $(pwd)/server.log:/app/server.log katyasymchuk/lab4_django:monitoring
+    ```
+    - комічу `Dockerfile.monit` та результати роботи програми моніторингу, запущеної з Docker контейнера - `server.log`.
