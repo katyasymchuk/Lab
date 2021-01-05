@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.app
-    image: katyasymchuk/lab5_devops:app
+    image: katyasymchuk/lab5_devops:compose-app
     container_name: app
     depends_on:
       - redis
@@ -19,7 +19,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.tests
-    image: katyasymchuk/lab5_devops:tests
+    image: katyasymchuk/lab5_devops:compose-tests
     container_name: tests
     depends_on:
       - hits
