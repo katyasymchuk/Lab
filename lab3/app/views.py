@@ -13,7 +13,6 @@ def health(request):
                 'current_page': request.path,
                 'server_info': {
                     'system': os.name,
-                    'user': os.getlogin(),
                 },
                 'datetime': datetime.now().isoformat(),
                 'server_url': request.build_absolute_uri(),
