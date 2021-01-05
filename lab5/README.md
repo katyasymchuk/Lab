@@ -1,4 +1,5 @@
-#Lab_5: Автоматизація за допомогою Makefile VS Docker Compose
+Lab_5: Автоматизація за допомогою Makefile VS Docker Compose
+---
 
 ## Pre-requirements:
 - Інсталюю `Docker/docker-compose, make` на віртуальну машину Ubuntu
@@ -78,7 +79,7 @@
    ```
    ![image](img/8.png)
 
-##Docker-compose
+## Docker-compose
 1. Створюю файл `docker-compose.yaml` у кореновій папці проекту та заповнюю вмістом згідно прикладу. У цій реалізації розгортання є дві мережі:
    - У мережі `secret` знаходяться `app` і `redis`. Отстанній не має доступу до зовнішніх ресурсів;
    - До мережі `public` відносяться `app` і `tests`. Таким чином `tests` i `redis` не мають доступу один до одного.
@@ -118,7 +119,7 @@
 ##Домашнє завдання
 1. Створюю `docker-compose.yaml` для лабораторної №4:
 
-   - За допомогою `docker-compose.yaml` створюється два імеджі для Django сайту та моніторингу [docker-compose.yaml файл]();
+   - За допомогою `docker-compose.yaml` створюється два імеджі для Django сайту та моніторингу [docker-compose.yaml файл](https://github.com/katyasymchuk/Lab/blob/main/lab4/docker-compose.yml);
 
    - Запускаю `docker-compose.yaml` командою
        ```
@@ -126,9 +127,9 @@
        ```
    - Перевіряю доступність головної сторінки та вкладки `health`:
 
-   ![image](img/.png)
-
-   ![image](img/.png)
+      ![image](img/13.png)
+   
+      ![image](img/14.png)
 
    - Зупиняю проект, натиснувши `Ctrl+C`, і очищаю ресурси створені компоуз `docker-compose down`;
 
