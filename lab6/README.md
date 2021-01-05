@@ -16,3 +16,8 @@
    - переписую білд lab 2, з використання кроків записаних у `Makefile`;
    - переписую білд lab 4, з ще одним `Dockerfile` для контейнера моніторингу;
    - переписую білд lab 5 і додаю кроки `Makefile`, які робили push імеджів у `Docker Hub` репозиторій;
+   - всі білди виконуються успішно:
+
+      ![image](img/2.png)
+
+6. Посилання на  [Travis build](https://travis-ci.com/github/katyasymchuk/Lab).
