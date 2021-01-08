@@ -20,4 +20,4 @@
 
       ![image](img/2.png)
 
-6. Посилання на  [Travis build](https://travis-ci.com/github/katyasymchuk/Lab).
+7. Посилання на  [Travis build](https://travis-ci.com/github/katyasymchuk/Lab).
